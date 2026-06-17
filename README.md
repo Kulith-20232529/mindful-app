@@ -1,3 +1,7 @@
+Designed and developed a full-stack mental health web application featuring AI-powered chat, mood tracking, journaling, and guided breathing exercises. Built a secure REST API with Node.js and Express, using JWT authentication and bcrypt for user data protection. Integrated the Google Gemini API via a backend proxy to prevent key exposure. Connected MongoDB Atlas with Mongoose for persistent storage, and implemented mood trend visualization with Recharts. Delivered 8 animated breathing techniques using React hooks and SVG — no external animation libraries
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
